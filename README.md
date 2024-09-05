@@ -41,7 +41,7 @@ Joined Github very recently.
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
-<img align="right" height="250" width="375" alt="" src="https://github.com/Lakshmiprasanna55/Lakshmiprasanna55/blob/main/200w.gif" />
+<img align="right" height="250" width="375" alt="" src="https://github.com/Lakshmiprasanna55/Lakshmiprasanna55/blob/main/200w.webp" />
 
 ### My Dev Stuffs:
 
